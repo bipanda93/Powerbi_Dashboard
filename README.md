@@ -26,7 +26,7 @@ MSc Data Engineering — Digital School of Paris
 - Style Blanc & Doré · 2 pages
 
 ## 🎓 Contexte
-MSc Data Engineering · Digital School of Paris · El Mehdi Zouhri
+MSc Data Engineering · Digital School of Paris 
 
 ---
 *"From raw data to intelligent systems"*
